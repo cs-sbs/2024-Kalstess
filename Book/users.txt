@@ -1,0 +1,8 @@
+1,1,admin
+11,11,admin
+zhx,23102040239,admin
+zhx,zhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhxzhx,admin
+0,0,normal
+00,00,normal
+000,000,normal
+测试新建用户,aaa,normal
